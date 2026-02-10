@@ -24,7 +24,7 @@ The project is built using the Storefront theme and customized with Elementor.
 7. Add products and configure store settings
 
 ## Demo
-Live Website: https://styleaurashopping.great-site.net/
+Live Demo: https://drive.google.com/file/d/15AY_ylPEmlX_wuSAtTwMlopbjVcDwPeJ/view?usp=sharing
 
 ## Technologies Used
 - WordPress
