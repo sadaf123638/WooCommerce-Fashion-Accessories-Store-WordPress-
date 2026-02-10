@@ -1,15 +1,30 @@
-# WooCommerce-Fashion-Accessories-Store-WordPress-
-Developed a responsive WooCommerce clothing store for men, women, and accessories using WordPress, Elementor, and Storefront theme. Implemented product catalog, cart, and checkout system.
 # WooCommerce Clothing Store
 
-This is a demo eCommerce website developed using WordPress and WooCommerce.
+This is a demo eCommerce website developed using WordPress and WooCommerce for selling Men, Women, and Accessories.
+
+The project is built using the Storefront theme and customized with Elementor.
 
 ## Features
-- Online store for Men, Women, and Accessories
-- Responsive design
-- Built with Elementor and Storefront theme
+- Online clothing and accessories store
+- Separate categories for Men, Women, and Accessories
+- Responsive and mobile-friendly design
 - Product listing, cart, and checkout system
 - User-friendly interface
+
+## Theme Included
+- Storefront Theme (ZIP file)
+
+## Installation Steps
+1. Install WordPress on your hosting or localhost
+2. Go to Admin Panel → Appearance → Themes
+3. Click on Add New → Upload Theme
+4. Upload the Storefront theme ZIP file
+5. Activate the theme
+6. Install WooCommerce and required plugins
+7. Add products and configure store settings
+
+## Demo
+Live Website: https://styleaurashopping.great-site.net/
 
 ## Technologies Used
 - WordPress
@@ -18,8 +33,6 @@ This is a demo eCommerce website developed using WordPress and WooCommerce.
 - WpForm
 - MySQL
 
-## Demo
-Live Website: https://styleaurashopping.great-site.net/
-
 ## Developer
 Sadaf Khan
+
